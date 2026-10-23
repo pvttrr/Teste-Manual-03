@@ -1,10 +1,10 @@
 # Projeto de Testes Manuais - OrangeHRM
 
 ## Descrição 
-		Nome do ambiente testado : OrangeHRM
-	  Link do ambiente : https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
-	  Tipo de Teste : Testes Manuais 
-	  Versão Avaliada : Demo pública
+	Nome do ambiente testado : OrangeHRM
+	Link do ambiente : https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+	Tipo de Teste : Testes Manuais 
+	Versão Avaliada : Demo pública
 
 
 # Objetivo
